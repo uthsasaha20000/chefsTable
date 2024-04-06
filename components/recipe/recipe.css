@@ -1,0 +1,12 @@
+#heading{
+    color:lightgreen;
+    margin-top:40px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#text{
+    font-weight: bolder;
+    color:lightgreen;
+    margin-bottom:50px;
+}

@@ -1,0 +1,9 @@
+#c{
+    font-size: small;
+
+    display: flex;
+    gap:35px;
+    margin-left:20px;
+    margin-top:20px;
+    margin-bottom:20px;
+}

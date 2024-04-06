@@ -1,0 +1,28 @@
+#banner {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 30px;
+    height: 500px;
+    background-image: url('../images/download.png');
+    background-size: cover; /* Adjust the size of the background image to fit within the element */
+    background-repeat: no-repeat; /* Prevent the background image from repeating */
+    background-position: center; /* Center the background image */
+    padding: 200px; /* Add padding around the background image */
+    background-color: black; /* Set the background color to black */
+}
+#banner h1{
+    font-size:40px;
+    font-weight: bolder;
+
+}
+#banner h2{
+    font-size: medium;
+    font-weight: bold;
+}
+#btn{
+    display: flex;
+    gap:30px;
+    margin-top: 20px;
+}
